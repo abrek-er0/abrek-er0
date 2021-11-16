@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abrek. I'm a junior student at the Istanbul Technical University.
 - 👀 I’m interested in so many things https://www.hackerrank.com/profile/Abrek.
-- 🌱 I’m currently trying to gain experience on the deep learning.
+- 🌱 I'm working on a model to detect hand gestures with EMG sensors.
 - 💞️ I’m looking for internship opportunities.
 - 📫 abrek.itu@gmail.com
 - ituitis20-ery19 is my school account.
