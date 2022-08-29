@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Abrek. I'm a junior student at the Istanbul Technical University.
-- 👀 I’m interested in so many things https://www.hackerrank.com/profile/Abrek.
-- 🌱 I'm working on a model to detect hand gestures with EMG sensors.
-- 💞️ I’m looking for internship opportunities.
-- 📫 abrek.itu@gmail.com
-- ituitis20-ery19 is my school account.
-<!---
-abrek-er0/abrek-er0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>Hi, I’m Abrek  
+  
+I'm a senior Computer Engineering(B.S.) student at the Istanbul Technical University.  
+  
+Please check my <a href="https://www.hackerrank.com/profile/Abrek">HackerRank</a> and <a href="https://tr.linkedin.com/in/yakup-abrek-er-9140901b4">LinkedIn</a>  pages  
+<div align="right">📫 Personal: <a href="mailto:abrek.itu@gmail.com">abrek.itu@gmail.com</a></br>School: <a href="mailto:ery19@itu.edu.tr">ery19@itu.edu.tr</a></div>      </b>
